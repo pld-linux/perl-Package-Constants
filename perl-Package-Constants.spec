@@ -8,13 +8,13 @@
 Summary:	Package::Constants - list all constants declared in a package
 Summary(pl.UTF-8):	Package::Constants - lista wszystkich stałych zadeklarowanych w pakiecie
 Name:		perl-Package-Constants
-Version:	0.02
-Release:	4
+Version:	0.06
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Package/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	4027c258b0163322f8f220f253e81142
+# Source0-md5:	e608e8eb260ee6226943c67eba1015ed
 URL:		http://search.cpan.org/dist/Package-Constants/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
